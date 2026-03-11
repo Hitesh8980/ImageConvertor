@@ -62,7 +62,7 @@ CircuitLens is a frontend assessment project built with React 18 and Vite. It al
 git clone https://github.com/Hitesh8980/ImageConvertor.git
 
 # 2. Navigate into the project
-cd circuit-lens-dashboard
+cd frontend
 
 # 3. Install dependencies
 npm install
